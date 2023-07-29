@@ -1,6 +1,6 @@
 # **Vizualize**
 
-Bring your code to life with our visualisations!
+Bring your code to life with our visualisations! 
 
 ### **Using the Extension**
 - Open the concerned **C++** file in VS Code, the file extension must be `.cpp` .
